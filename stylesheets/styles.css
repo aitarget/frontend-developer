@@ -697,7 +697,7 @@ dt {
 #header {
   z-index: 100;
   left: 0;
-  bottom: 35px;
+  bottom: 0;
   height: 60px;
   width: 100%;
   position: fixed;
